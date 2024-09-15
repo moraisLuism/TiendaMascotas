@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Hosting
 
-> client URL: https://tienda-mascotas-nmyx-6ljcmfpfb-moraisluisms-projects.vercel.app/tienda/mascotas
+> client URL: https://tienda-mascotas-nmyx-6ljcmfpfb-moraisluisms-projects.vercel.app/login
 
 To access the api https://www.tiendamascotas.somee.com/swagger/index.html
 
