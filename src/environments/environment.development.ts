@@ -1,3 +1,3 @@
 export const environment = {
-  urlAPI: "http://www.tiendamascotas.somee.com/api/",
+  urlAPI: "https://www.tiendamascotas.somee.com/api/",
 };
