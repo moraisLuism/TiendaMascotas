@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Hosting
+
+> client URL: https://tienda-mascotas-nmyx-6ljcmfpfb-moraisluisms-projects.vercel.app/tienda/mascotas
+
+To access the api https://www.tiendamascotas.somee.com/swagger/index.html
+
